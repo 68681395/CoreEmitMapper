@@ -89,6 +89,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A13DA650-06C8-433A-AE72-E2C75A5FF7A9}
+		SolutionGuid = {C56ED276-B067-4E1C-93E4-243B4B6DDDE3}
 	EndGlobalSection
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
